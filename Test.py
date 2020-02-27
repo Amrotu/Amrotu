@@ -1,1 +1,1 @@
-print("Thomas issn Spacko")
+print("Maik issn Spacko")
