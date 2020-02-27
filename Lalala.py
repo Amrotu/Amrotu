@@ -1,1 +1,1 @@
-print("Maik")
+print("Maik stinkt")
