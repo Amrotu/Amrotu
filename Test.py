@@ -1,1 +1,0 @@
-print("Maik issn klklcko")
