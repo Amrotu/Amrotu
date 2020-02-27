@@ -1,1 +1,0 @@
-print("Thomas issn Spacko")
